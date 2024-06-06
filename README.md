@@ -8,7 +8,6 @@
 :mailbox: How to reach me himnishmehandiratta1620@gmail.com
 *****
 
-***** - 🔭 I’m currently working on building a *****
 - 🌱 I’m currently learning Web Development 
 - 📫 How to reach me: himnishmehandiratta1620@gmail.com
 - ⚡ Fun fact: I do standup comedy
