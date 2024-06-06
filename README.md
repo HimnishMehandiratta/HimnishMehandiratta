@@ -2,7 +2,15 @@
 
 <!--
 **HimnishMehandiratta/HimnishMehandiratta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ___Hi :wave: , I'm Himnish Mehandiratta___
+****
+ A 3rd year CS major studying at UPES Dehradun, specializing in Cyber Security and Forensics. I currently learning Web Development. Scroll down to know more about me and to connect with me!
+ _____
 
+:mailbox: How to reach me himnishmehandiratta1620@gmail.com
+*****
+Connect with me: 
+[![Linkedin URL](https://www.linkedin.com/in/himnish-mehandiratta-a25882252/))](https://twitter.com/Mitali05_)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
